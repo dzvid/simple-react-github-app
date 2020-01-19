@@ -63,3 +63,13 @@ Folder structure and files:
 yarn add styled-components
 
 - Install styled components extension.
+
+---
+
+## Estilos globais
+
+Create folder and files:
+
+- src/styles/global.js
+
+To create the global style: use createGlobalStyle from styled components lib.
