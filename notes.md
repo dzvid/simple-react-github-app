@@ -36,6 +36,8 @@ Create and add content to .prettierrc:
 "trailingComma": "es5"
 }
 
+---
+
 ## Roteamento no React
 
 ---
@@ -51,3 +53,13 @@ Folder structure and files:
 - src/routes.js: Return the routes of the application;
 - src/pages/Main/index.js
 - src/pages/Repository/index.js
+
+---
+
+## Styled components
+
+- Install lib:
+
+yarn add styled-components
+
+- Install styled components extension.
