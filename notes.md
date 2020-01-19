@@ -73,3 +73,12 @@ Create folder and files:
 - src/styles/global.js
 
 To create the global style: use createGlobalStyle from styled components lib.
+
+---
+
+## Estilizando a página Main
+
+- (optional) Install a package of popular icons:
+  yarn add react-icons
+
+-
