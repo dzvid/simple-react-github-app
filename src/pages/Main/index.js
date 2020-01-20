@@ -52,8 +52,6 @@ export default class Main extends Component {
       newRepo: '',
       loading: false,
     });
-
-    console.log(this.state.repositories);
   };
 
   handleInputChange = (e) => {
@@ -87,7 +85,7 @@ export default class Main extends Component {
           {repositories.map((repository) => (
             <li key={repository.name}>
               <span>{repository.name}</span>
-              <Link to={`/repository/${encodeURIComponent(repository.name)}`}>Detalhes</Link>
+              <Link to={`/simple-react-github-app/repository/${encodeURIComponent(repository.name)}`}>Detalhes</Link>
             </li>
           ))}
         </List>

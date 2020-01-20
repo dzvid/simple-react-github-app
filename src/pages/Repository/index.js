@@ -51,7 +51,7 @@ export default class Repository extends Component {
     return (
       <Container>
         <Owner>
-          <Link to="/">
+          <Link to="/simple-react-github-app">
             <FaArrowCircleLeft size={32} />
             Voltar aos repositórios
           </Link>

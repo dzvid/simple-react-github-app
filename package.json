@@ -1,5 +1,5 @@
 {
-  "name": "github-client",
+  "name": "simple-react-github-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -48,5 +48,6 @@
     "eslint-plugin-react-hooks": "^1.7.0",
     "prettier": "^1.19.1",
     "prettier-eslint": "^9.0.1"
-  }
+  },
+  "homepage": "https://tukno.github.io/simple-react-github-app"
 }
