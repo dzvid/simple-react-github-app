@@ -49,5 +49,5 @@
     "prettier": "^1.19.1",
     "prettier-eslint": "^9.0.1"
   },
-  "homepage": "http://tukno.github.io/simple-react-github-app/public/index.html"
+  "homepage": "https://tukno.github.io/simple-react-github-app"
 }
