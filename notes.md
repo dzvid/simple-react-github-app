@@ -81,4 +81,57 @@ To create the global style: use createGlobalStyle from styled components lib.
 - (optional) Install a package of popular icons:
   yarn add react-icons
 
+---
+
+## Adicionando repositórios
+
+- Install axios to make HTTP requests (or use fetch):
+  yarn add axios
+
+- Create folders and files:
+  src/services/api.js
+
+---
+
+## Listando repositórios
+
+- Implemented a list using ul and li
+
+---
+
+## Utilizando LocalStorage
+
 -
+
+---
+
+## Navegação de rotas
+
+- Navigation using the Link component.
+
+---
+
+## Carregando dados da API
+
+- Uses Promise.all to make paralel requests;
+
+---
+
+## Definindo Proptypes
+
+- Install Proptypes lib:
+  yarn add prop-types
+
+- Declare proptypes as static attributes.
+
+---
+
+## Exibindo repositório
+
+- Shows basic information about the repository;
+
+---
+
+## Exibindo issues
+
+- Render the issues and the labels.
