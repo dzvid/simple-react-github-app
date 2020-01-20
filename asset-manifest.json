@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/simple-react-github-app/public/index.html/static/js/main.854397f3.chunk.js",
+    "main.js.map": "/simple-react-github-app/public/index.html/static/js/main.854397f3.chunk.js.map",
+    "runtime-main.js": "/simple-react-github-app/public/index.html/static/js/runtime-main.20f76866.js",
+    "runtime-main.js.map": "/simple-react-github-app/public/index.html/static/js/runtime-main.20f76866.js.map",
+    "static/js/2.ff5c0ac5.chunk.js": "/simple-react-github-app/public/index.html/static/js/2.ff5c0ac5.chunk.js",
+    "static/js/2.ff5c0ac5.chunk.js.map": "/simple-react-github-app/public/index.html/static/js/2.ff5c0ac5.chunk.js.map",
+    "index.html": "/simple-react-github-app/public/index.html/index.html",
+    "precache-manifest.de25b7fac533869dc8b0ad7614ab3c51.js": "/simple-react-github-app/public/index.html/precache-manifest.de25b7fac533869dc8b0ad7614ab3c51.js",
+    "service-worker.js": "/simple-react-github-app/public/index.html/service-worker.js",
+    "static/js/2.ff5c0ac5.chunk.js.LICENSE": "/simple-react-github-app/public/index.html/static/js/2.ff5c0ac5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20f76866.js",
+    "static/js/2.ff5c0ac5.chunk.js",
+    "static/js/main.854397f3.chunk.js"
+  ]
+}
