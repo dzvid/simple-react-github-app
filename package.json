@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.1",
+    "gh-pages": "^2.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -16,6 +17,8 @@
     "styled-components": "^5.0.0"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,5 +49,5 @@
     "prettier": "^1.19.1",
     "prettier-eslint": "^9.0.1"
   },
-  "homepage": "http://tukno.github.io/simple-react-github-app/public/build/index.html"
+  "homepage": "http://tukno.github.io/simple-react-github-app/public/index.html"
 }
