@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/simple-react-github-app/static/js/main.854397f3.chunk.js",
-    "main.js.map": "/simple-react-github-app/static/js/main.854397f3.chunk.js.map",
-    "runtime-main.js": "/simple-react-github-app/static/js/runtime-main.a9f3c00e.js",
-    "runtime-main.js.map": "/simple-react-github-app/static/js/runtime-main.a9f3c00e.js.map",
-    "static/js/2.eb1564d1.chunk.js": "/simple-react-github-app/static/js/2.eb1564d1.chunk.js",
-    "static/js/2.eb1564d1.chunk.js.map": "/simple-react-github-app/static/js/2.eb1564d1.chunk.js.map",
-    "index.html": "/simple-react-github-app/index.html",
-    "precache-manifest.61b57173e143283b7597163c1ddedd94.js": "/simple-react-github-app/precache-manifest.61b57173e143283b7597163c1ddedd94.js",
-    "service-worker.js": "/simple-react-github-app/service-worker.js",
-    "static/js/2.eb1564d1.chunk.js.LICENSE": "/simple-react-github-app/static/js/2.eb1564d1.chunk.js.LICENSE"
+    "main.js": "/static/js/main.854397f3.chunk.js",
+    "main.js.map": "/static/js/main.854397f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9d8c087a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9d8c087a.js.map",
+    "static/js/2.62926fdd.chunk.js": "/static/js/2.62926fdd.chunk.js",
+    "static/js/2.62926fdd.chunk.js.map": "/static/js/2.62926fdd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2cf6fa06dc584b70b6fbec7fab1d2cdd.js": "/precache-manifest.2cf6fa06dc584b70b6fbec7fab1d2cdd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.62926fdd.chunk.js.LICENSE": "/static/js/2.62926fdd.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9f3c00e.js",
-    "static/js/2.eb1564d1.chunk.js",
+    "static/js/runtime-main.9d8c087a.js",
+    "static/js/2.62926fdd.chunk.js",
     "static/js/main.854397f3.chunk.js"
   ]
 }
