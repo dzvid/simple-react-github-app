@@ -1,1 +1,1 @@
-# simple-react-github-app
+# Simple github client built with react
